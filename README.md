@@ -11,4 +11,4 @@ focusing on products that work well and feel great to use.
 - 🎨 UI/UX design & product thinking
 - 🚀 Currently exploring Go, system design & cloud infrastructure
 
-[Portfolio](https://viliamkratky.dev/) · [LinkedIn](https://www.linkedin.com/in/viliam-kr%C3%A1tky-85b753279/) · [Email](mailto:viliam@kratky.sk)
+[Portfolio](https://viliamkratky.dev/) · [LinkedIn](https://www.linkedin.com/in/viliam-kr%C3%A1tky-85b753279/) · [Email](mailto:viliam@kratky.sk) · [Resume](https://viliamkratky.dev/viliam-kratky-resume.pdf)
