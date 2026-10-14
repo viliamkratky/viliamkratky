@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**viliamkratky/viliamkratky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Viliam 👋
 
-Here are some ideas to get you started:
+Software Engineer with a passion for building digital products
+from concept to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I combine software engineering with a strong eye for UI/UX,
+focusing on products that work well and feel great to use.
+
+- 💻 Full-stack development & frontend engineering
+- 🎨 UI/UX design & product thinking
+- 🚀 Currently exploring Go, system design & cloud infrastructure
+
+<!-- [Portfolio](URL) · -->
+[LinkedIn](https://www.linkedin.com/in/viliam-kr%C3%A1tky-85b753279/) · [Email](mailto:viliam@kratky.sk)
