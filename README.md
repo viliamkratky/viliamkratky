@@ -1,14 +1,5 @@
-
 ### Hey, I'm Viliam 👋
 
-Software Engineer with a passion for building digital products
-from concept to production.
+I'm a full-stack engineer and CS student at Masaryk University in Brno. I build websites and web apps for clients, from design to deployment. Lately I work a lot with coding agents, and I built [Decision Watchdog](https://github.com/viliamkratky/decision-watchdog) to keep track of the decisions I make along the way.
 
-I combine software engineering with a strong eye for UI/UX,
-focusing on products that work well and feel great to use.
-
-- 💻 Full-stack development & frontend engineering
-- 🎨 UI/UX design & product thinking
-- 🚀 Currently exploring Go, system design & cloud infrastructure
-
-[Portfolio](https://viliamkratky.dev/) · [Resume](https://viliamkratky.dev/viliam-kratky-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/viliam-kr%C3%A1tky-85b753279/) · [Email](mailto:viliam@kratky.sk)
+[Portfolio](https://viliamkratky.dev/) · [Resume](https://viliamkratky.dev/viliam-kratky-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/viliamkratky/) · [Email](mailto:viliam@kratky.sk)
